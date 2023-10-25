@@ -9,3 +9,11 @@ p::first-line{
 p::selection{
     background-color: red;
 }
+
+div {
+    color: magenta;
+}
+
+button {
+    color: inherit;
+}
